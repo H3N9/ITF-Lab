@@ -14,11 +14,5 @@
 
 >***King mongkut's institute of technology ladkrabang***
   
-1. print("hello world")
+```print("hello world")```
 
----
-**NOTE**
-
-It works with almost all markdown flavours (the below blank line matters).
-
----
