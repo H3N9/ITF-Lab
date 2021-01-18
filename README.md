@@ -9,7 +9,7 @@
 
 >***King mongkut's institute of technology ladkrabang***  
 
- 
 ```
-print('Hello world, IT @ KMITL')
+print("hello world")
 ```
+
