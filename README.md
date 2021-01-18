@@ -10,6 +10,6 @@
 >***King mongkut's institute of technology ladkrabang***  
 
  
-| ``` pring ``` |
-| ------------- |
-
+```
+print('Hello world, IT @ KMITL')
+```
