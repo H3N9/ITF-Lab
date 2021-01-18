@@ -7,8 +7,8 @@
 **StudentID** : 61070187  
 **Name** : Ramil Arthan
 
->[***King mongkut's institute of technology ladkrabang***](www.google.com)
+>[***IT @ KMITL***](www.google.com)
 ```
-print("hello world")
+print(“Hello world, IT @ KMITL”)
 ```
 
